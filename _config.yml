@@ -1,11 +1,11 @@
 # Personalize your website info here
-title:            Anew Guy
-tagline:          'Professional Website for Anew Guy'
-description:      'Website and Blog for Anew Guy'
-url:              http://anewguy.github.io
+title:            Reena Clements
+tagline:          'Neuroscientist and Avid Science Communicator'
+description:      'Website and Reena Clements'
+url:              http://reenaclements.github.io
 author:
-  name:           'Anew Guy'
-  url:            https://twitter.com/anewguy
+  name:           'Reena Clements'
+  url:            http://www.ohsu.edu/xd/research/centers-institutes/vollum/faculty/wrightlab.cfm
 
 ## You don't need to modify below this line
 paginate:         5
